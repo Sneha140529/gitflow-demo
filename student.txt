@@ -1,5 +1,4 @@
- 
 Student Registration Feature
 Name: Sneha
 Course: DevOps
-Status: Feature One
+Status: Feature One and Feature Two
